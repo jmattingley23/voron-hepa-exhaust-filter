@@ -49,16 +49,22 @@ These are the exact ones I purchased: https://smile.amazon.com/gp/product/B00K7D
 Assembly is pretty straightforward, everything is built up in a big stack.  I'll outline the main points here but the CAD model is your friend if you get stuck.
 ![](Images/assembly.jpg)
 
+---
 1. Add a strip of tape along the length of the inside face of the door piece.  This helps get an airtight seal against the filter frame and provides a bit of tension for the latching mechanism.
+
 ![](Images/door_seal.jpg)
 2. Start the main assembly by securing the filter mounts to the frame with the M5x10 BHCS and t-nuts
+
 ![](Images/frame_mounts.jpg)
 3. Drive 2x M3x12 SHCS through the exhaust grill into the backplate to attach both pieces (same method as on the stock exhaust).  Now is also a good time to route your bowden tube and fish your fan connector through.
+
 ![](Images/backplate.jpg)
 4. Pass the fan cable through the filter surround piece and route it as shown.  The empty space is for stuffing any excess cable in.
+
 ![](Images/cable_routing.jpg)
 5. Use 4x M3x30 SHCS to secure the rest of the printed parts to the backplate, being sure to add the door piece to the bottom left screw.  Tighten down the two fasteners on the right side, and snug up the left ones to the point where everything is sealed and secure, but does not interfere with the door opening and closing.  It should open and close with relative ease and a satisfying snap.
-  - Also, I'd recommend adding a bit of tape to secure the fan cable so it's not flopping around in the path of the filter sliding in and out.  You can use whatever but I found that the same foam tape actually holds very well.
+    - Also, I'd recommend adding a bit of tape to secure the fan cable so it's not flopping around in the path of the filter sliding in and out.  You can use whatever but I found that the same foam tape actually holds very well.  
+
 ![](Images/wire_management.jpg)
 6. Use the remaining 4x M3x30 SHCS to secure the fan and decorative fan grill (you want the sticker side of the fan facing outwards such that the fan is drawing air out of the chamber and across the filter).
 
