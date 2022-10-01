@@ -46,9 +46,8 @@ These are the exact ones I purchased: https://smile.amazon.com/gp/product/B00K7D
 
 ## Assembly
 
-![](Images/assembly.jpg)
-
 Assembly is pretty straightforward, everything is built up in a big stack.  I'll outline the main points here but the CAD model is your friend if you get stuck.
+![](Images/assembly.jpg)
 
 1. Add a strip of tape along the length of the inside face of the door piece.  This helps get an airtight seal against the filter frame and provides a bit of tension for the latching mechanism.
 ![](Images/door_seal.jpg)
