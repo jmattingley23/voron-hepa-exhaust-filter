@@ -70,7 +70,7 @@ Assembly is pretty straightforward, everything is built up in a big stack.  I'll
 
 ## See Also
 
-[Nevemore](https://github.com/nevermore3d/Nevermore_Micro) - activated carbon air scrubber that this mod is designed to be paired with  
+[Nevermore](https://github.com/nevermore3d/Nevermore_Micro) - activated carbon air scrubber that this mod is designed to be paired with  
 [VEFACH](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH) - An alternative to this+nevermore, that features particulate filtration and activated carbon all in one unit
 
 ---
