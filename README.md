@@ -55,7 +55,7 @@ Assembly is pretty straightforward, everything is built up in a big stack.  I'll
 ![](Images/frame_mounts.jpg)
 3. Drive 2x M3x12 SHCS through the exhaust grill into the backplate to attach both pieces (same method as on the stock exhaust).  Now is also a good time to route your bowden tube and fish your fan connector through.
 ![](Images/backplate.jpg)
-4. Pass the fan cable through the filter surround piece and route it as shown.  The large empty space is for stuffing any excess cable in.
+4. Pass the fan cable through the filter surround piece and route it as shown.  The empty space is for stuffing any excess cable in.
 ![](Images/cable_routing.jpg)
 5. Use 4x M3x30 SHCS to secure the rest of the printed parts to the backplate, being sure to add the door piece to the bottom left screw.  Tighten down the two fasteners on the right side, and snug up the left ones to the point where everything is sealed and secure, but does not interfere with the door opening and closing.  It should open and close with relative ease and a satisfying snap.
   - Also, I'd recommend adding a bit of tape to secure the fan cable so it's not flopping around in the path of the filter sliding in and out.  You can use whatever but I found that the same foam tape actually holds very well.
@@ -64,7 +64,7 @@ Assembly is pretty straightforward, everything is built up in a big stack.  I'll
 
 ## See Also
 
-[Nevemore](https://github.com/nevermore3d/Nevermore_Micro) - activated carbon air scrubber that this mod is designed to be paired with
+[Nevemore](https://github.com/nevermore3d/Nevermore_Micro) - activated carbon air scrubber that this mod is designed to be paired with  
 [VEFACH](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH) - An alternative to this+nevermore, that features particulate filtration and activated carbon all in one unit
 
 ---
